@@ -27,3 +27,4 @@ System.out.println("Remainder of two numbers: "+rem);
 ```
 
 ## Output:
+![GITHUB LOGO](MathOperations.png)
