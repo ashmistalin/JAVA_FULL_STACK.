@@ -223,3 +223,6 @@ public class Calculator{
 }
 ```
 ## OUTPUT:
+
+![calculator](https://user-images.githubusercontent.com/103128410/224522165-3ec79bc9-50b2-4e93-b4d2-f4961dd1a8c9.png)
+
