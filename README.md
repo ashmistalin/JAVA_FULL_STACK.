@@ -1,8 +1,10 @@
 # JAVA_FULL_STACK.
+*/
 Java full stack assignment 1 
 Submitted by : ASHMI.S
 Register number : 212221040021
 Department : Computer Science and Engineering.
+*/
 
 # 1)Write a Java program to print the sum, multiply, subtract, divide and remainder of two numbers.
 
