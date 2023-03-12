@@ -28,3 +28,34 @@ System.out.println("Remainder of two numbers: "+rem);
 
 ## Output:
 ![MathOperations](https://user-images.githubusercontent.com/103128410/224521300-02c6b64f-ab4a-4346-bf47-2ba22238fad2.png)
+
+
+
+# Write a Java program to compare two numbers.
+
+## Program:
+```
+import java.util.Scanner;
+public class Comparison{
+    public static void main(String[] args){
+        Scanner sc=new Scanner(System.in);
+        System.out.println("Enter the numbers:");
+int num1 =sc.nextInt();
+int num2= sc.nextInt();
+if(num1==num2)
+{
+    System.out.println("Both the numbers are equal.");
+}
+else if(num1>num2)
+{
+     System.out.println(num1+" is greater than"+num2);
+}
+else
+{
+     System.out.println(num2+" is greater than "+num1);
+}
+    }
+}
+```
+
+## Output:
