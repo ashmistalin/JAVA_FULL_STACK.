@@ -61,3 +61,23 @@ else
 ## Output:
 
 ![comparison](https://user-images.githubusercontent.com/103128410/224521491-127f4db7-62b8-48ef-873e-b1a55e7a547d.png)
+
+
+
+#  Write a Java program to convert a string to an integer.
+
+## Program:
+```
+)import java.util.Scanner;
+public class StringToInteger{
+    public static void main(String[] args){
+        Scanner sc=new Scanner(System.in);
+        System.out.println("Enter the string:");
+        String str= sc.nextLine();
+        int num= Integer.parseInt(str);
+        System.out.println("The integer value of the string is: "+num);
+    }
+}
+```
+
+## Output:
