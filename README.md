@@ -1,8 +1,9 @@
 # JAVA_FULL_STACK.
-/*
 Java Full Stack Assignment 1 .
+/*
+Program to implement the SVM For Spam Mail Detection..
 Developed by: ASHMI.S
-Register Number:  212221040021. 
+RegisterNumber:  212221040021
 */
 
 # 1)Write a Java program to print the sum, multiply, subtract, divide and remainder of two numbers.
