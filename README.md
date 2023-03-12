@@ -157,3 +157,26 @@ public class DaysInMonth{
 ## Output:
 
 ![daysinmonth](https://user-images.githubusercontent.com/103128410/224521944-4f40e3f5-50c6-4802-84b0-5ef8dfca70e2.png)
+
+
+# 6)Write a Java program to print the even numbers from 1 to 20.
+
+## Program:
+```
+public class EvenNumber{
+    public static void main(String[] args){
+        System.out.print("The even numbers from 1 to 20 are listed below:");
+        int i;
+        for(i=1;i<=20;i++)
+        {
+            if(i%2==0)
+            {
+                System.out.print("\n"+i);
+            }
+        }
+    }
+}
+
+```
+
+## Output:
