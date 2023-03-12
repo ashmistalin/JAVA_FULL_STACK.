@@ -1,7 +1,7 @@
 # JAVA_FULL_STACK.
 Java full stack assignment 1 - Ashmi.S
 
-# Write a Java program to print the sum, multiply, subtract, divide and remainder of two numbers.
+# 1)Write a Java program to print the sum, multiply, subtract, divide and remainder of two numbers.
 
 ## Program:
 ```
@@ -31,7 +31,7 @@ System.out.println("Remainder of two numbers: "+rem);
 
 
 
-# Write a Java program to compare two numbers.
+# 2)Write a Java program to compare two numbers.
 
 ## Program:
 ```
@@ -64,7 +64,7 @@ else
 
 
 
-#  Write a Java program to convert a string to an integer.
+#  3)Write a Java program to convert a string to an integer.
 
 ## Program:
 ```
@@ -81,3 +81,5 @@ public class StringToInteger{
 ```
 
 ## Output:
+
+![stringtoint](https://user-images.githubusercontent.com/103128410/224521631-f19a6d36-a336-4c61-8aad-c086623b5784.png)
