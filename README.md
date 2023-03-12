@@ -1,5 +1,8 @@
 # JAVA_FULL_STACK.
-Java full stack assignment 1 - Ashmi.S
+Java full stack assignment 1 
+Submitted by : ASHMI.S
+Register number : 212221040021
+Department : Computer Science and Engineering.
 
 # 1)Write a Java program to print the sum, multiply, subtract, divide and remainder of two numbers.
 
@@ -250,3 +253,4 @@ public class Tables{
 
 ## Output:
 
+![tables](https://user-images.githubusercontent.com/103128410/224522251-dd528134-fd9c-4e0c-8e25-c26ae56c7ef5.png)
