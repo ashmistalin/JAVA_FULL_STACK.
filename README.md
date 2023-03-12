@@ -83,3 +83,24 @@ public class StringToInteger{
 ## Output:
 
 ![stringtoint](https://user-images.githubusercontent.com/103128410/224521631-f19a6d36-a336-4c61-8aad-c086623b5784.png)
+
+
+# 4) Java Program to find area of rhombus.
+
+## Program:
+```
+import java.util.Scanner;
+public class AreaOfRhombus{
+    public static void main(String[] args){
+        Scanner sc=new Scanner(System.in);
+        System.out.println("Enter the first diagonal length(d1):");
+        float d1= sc.nextFloat();
+        System.out.println("Enter the second diagonal length(d2):");
+        float d2= sc.nextFloat();
+        float area=d1*d2/2;
+        System.out.println("The area of the rhombus in sq. units: "+area);
+    }
+}
+```
+
+## Output:
