@@ -104,3 +104,5 @@ public class AreaOfRhombus{
 ```
 
 ## Output:
+
+![areaofrhombus](https://user-images.githubusercontent.com/103128410/224521814-ed8e1bd2-ac1a-4ee0-8b22-2881db766b3e.png)
