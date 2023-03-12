@@ -59,3 +59,5 @@ else
 ```
 
 ## Output:
+
+![comparison](https://user-images.githubusercontent.com/103128410/224521491-127f4db7-62b8-48ef-873e-b1a55e7a547d.png)
