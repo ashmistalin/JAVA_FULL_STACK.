@@ -155,3 +155,5 @@ public class DaysInMonth{
 ```
 
 ## Output:
+
+![daysinmonth](https://user-images.githubusercontent.com/103128410/224521944-4f40e3f5-50c6-4802-84b0-5ef8dfca70e2.png)
