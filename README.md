@@ -27,4 +27,4 @@ System.out.println("Remainder of two numbers: "+rem);
 ```
 
 ## Output:
-![qnqn]("C:\Users\Dell\Pictures\Screenshots\ML\MathOperations.png")
+![MathOperations](https://user-images.githubusercontent.com/103128410/224521300-02c6b64f-ab4a-4346-bf47-2ba22238fad2.png)
