@@ -226,3 +226,27 @@ public class Calculator{
 
 ![calculator](https://user-images.githubusercontent.com/103128410/224522165-3ec79bc9-50b2-4e93-b4d2-f4961dd1a8c9.png)
 
+
+# 8) Write a Java program to print multiplication table of given number.
+
+## Program:
+```
+import java.util.Scanner;
+public class Tables{
+    public static void main(String[] args){
+        Scanner sc = new Scanner(System.in);
+        System.out.print("Enter the number for which the table has to generated: ");
+        int num=sc.nextInt();
+        System.out.print("Enter the limit for the table: ");
+        int limit=sc.nextInt();
+        for(int i=1;i<=limit;i++)
+        {
+            System.out.print(num+"x"+i+"="+num*i);
+            System.out.print("\n");
+        }
+    }
+}
+```
+
+## Output:
+
